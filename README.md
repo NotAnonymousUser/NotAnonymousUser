@@ -1,4 +1,4 @@
-- 👋 Welcome , I’m @NotAnonymousUser      (Muhammad Mubeen Javaid)
+- 👋 Welcome , I’m Muhammad Mubeen Javaid
 - 👀 I’m interested in      Cloud Applied Generative AI Engineering
 - 🌱 I’m currently learning      A lot of different technologies
 - 💞️ I’m looking to collaborate on      Different projects in the future
