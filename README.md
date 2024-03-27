@@ -6,7 +6,7 @@
 - ⚡ My NPM Packages      https://www.npmjs.com/~muhammad-mubeen-javed
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IE+DUET+'23;Software+Developer+at+Abacus+Consulting;Governer+Initiative+Artificial+Intelligence+Web3.0+MetaVerse+Development+Student;Certified+Cloud+Applied+Generative+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IE+DUET+'23|Software+Developer;GIAIWeb3MetaStudent;Certified+Cloud+Gen+AI+Engineer)](https://git.io/typing-svg)
 
 <!---
 NotAnonymousUser/NotAnonymousUser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
