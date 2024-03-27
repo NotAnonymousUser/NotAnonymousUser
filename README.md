@@ -5,6 +5,9 @@
 - 📫 How to reach me      https://www.linkedin.com/in/mubeen-javaid/
 - ⚡ My NPM Packages      https://www.npmjs.com/~muhammad-mubeen-javed
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Savvy;Generative+AI+Developer)](https://git.io/typing-svg)
+
 <!---
 NotAnonymousUser/NotAnonymousUser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
