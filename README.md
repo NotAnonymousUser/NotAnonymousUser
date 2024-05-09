@@ -4,8 +4,8 @@
 
 -  Welcome  I’m Muhammad Mubeen Javaid
 -  Interested in      Cloud Applied Generative AI Engineering
--  Currently learning      A lot of different technologies
--  Looking to collaborate on      Different projects in the future
+-  Currently learning      React & Next JS
+-  Looking to collaborate on      Open source Projects
 -  How to reach me      https://www.linkedin.com/in/mubeen-javaid/
 -  My NPM Packages      https://www.npmjs.com/~muhammad-mubeen-javed
 
