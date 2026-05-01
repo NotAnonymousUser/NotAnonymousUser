@@ -1,6 +1,6 @@
 <img width="1834" alt="Make your README" src="https://github.com/NotAnonymousUser/NotAnonymousUser/assets/125754246/3c04f35f-09eb-41e9-8f3e-a2051d99237c">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MS+Computer+Science+Information+Technology;Software+Developer;GI+AI+Web3+Meta+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MS+in+Computer+Science+%26+IT;Software+Developer;GI+AI+Web3+Meta+Student;)](https://git.io/typing-svg)
 
 -  Welcome  I’m Muhammad Mubeen Javaid
 -  Interested in      the world of Computer Science & Information Technology
